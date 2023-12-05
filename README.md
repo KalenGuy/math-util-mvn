@@ -14,6 +14,6 @@
 #### Screen-shots
 ![JUnit test script](https://github.com/KalenGuy/math-util-mvn/blob/main/screenshots/test%20script%20with%20junit.png)
 
-##### Connect me via: kalen153246789@gmail.com
+##### Connect me via: khoi.vodang.it@gmail.com
 
 ##### Copyright &#169; 2023 Khôi.Võ
